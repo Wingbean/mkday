@@ -55,3 +55,5 @@ def delete_job(tel):
 # delete_job('0238456987')
 
 # view_job()
+
+print('MKDAY')
